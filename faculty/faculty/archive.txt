@@ -1,0 +1,33 @@
+
+
+
+OOP:
+
+ lector: Tom  Miller
+Liza Malk point: 90; 
+Kate Blabla point: 95; 
+Alen Eddis point: 100; 
+Micky Anothersur point: 80; 
+
+
+Algebra:
+
+ lector: Andrej  Somesur
+Liza Malk point: 80; 
+Kate Blabla point: 90; 
+
+
+English:
+
+ lector: John  Someother
+Liza Malk point: 90; 
+Kate Blabla point: 79; 
+Micky Anothersur point: 99; 
+
+
+Math:
+
+ lector: Tom  Miller
+Kate Blabla point: 100; 
+
+
